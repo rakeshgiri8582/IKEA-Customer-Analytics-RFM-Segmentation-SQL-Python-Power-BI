@@ -129,13 +129,13 @@ IKEA-Customer-Analytics/
 ## 🖼️ Dashboard Preview
 
 ### 1. Customer Analytics
-![Customer Analytics Dashboard](Dashboard-Screenshots/Customer-Analytics.png)
+![IKEA Customer Analytics](/dahboard-screenshots/01_IKEA_Customer_Analytics.png)
 
 ### 2. Business Overview
-![Business Overview Dashboard](Dashboard-Screenshots/Business-Overview.png)
+![Business Overview](/dahboard-screenshots/02_Buisness_Overview.png)
 
 ### 3. RFM Analysis
-![RFM Analysis Dashboard](Dashboard-Screenshots/RFM-Analysis.png)
+![RFM Analysis](/dahboard-screenshots/03_RFM_Analysis.png)
 
 ## 🙏 Credits
 
